@@ -1,4 +1,4 @@
-int fooboox()
+int goodyx()
 {
   return 0;
 }
